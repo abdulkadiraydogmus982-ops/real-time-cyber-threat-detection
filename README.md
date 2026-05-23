@@ -20,7 +20,7 @@ The system analyzes network traffic, predicts attack types, stores logs in a SQL
 ---
 ## Dashboard Preview
 
-![panelscreen](screenshots/panelscreen.png)
+![pannelscreen](screenshots/panelscreen.png)
 
 ![logpannel](screenshots/logpannel.png)
 

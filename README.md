@@ -35,6 +35,7 @@ The system analyzes network traffic, predicts attack types, stores logs in a SQL
 - Streamlit
 - Pandas
 - NumPy
+- XGBoost
 - Scikit-learn
 - SQLite
 - Plotly

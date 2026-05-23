@@ -18,6 +18,16 @@ The system analyzes network traffic, predicts attack types, stores logs in a SQL
 - Live attack visualization
 
 ---
+## Dashboard Preview
+
+![panelscreen](screenshots/panelscreen.png)
+
+![logpannel](screenshots/logpannel.png)
+
+![fullscreen](screenshots/fullscreen.png)
+
+![wordmap](screenshots/wordmap.png)
+
 
 ## Technologies Used
 
@@ -60,7 +70,6 @@ streamlit run app.py
 project/
 │
 ├── app.py
-├── app1.py
 ├── README.md
 ├── .gitignore
 ```
